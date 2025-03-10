@@ -9,16 +9,16 @@ A machine learning-based Fashion Product Recommendation System that extracts fea
 5. Supports image uploads in JPG, JPEG, PNG formats.
 
 # Tech Stack
-Deep Learning: TensorFlow, Keras (MobileNetV2, ResNet50)
-Machine Learning: scikit-learn (KNN for recommendations)
-Web Framework: Streamlit
-Data Handling: NumPy, PIL
-Version Control: Git LFS (for large files like images and embeddings)
+1. Deep Learning: TensorFlow, Keras (MobileNetV2, ResNet50)
+2. Machine Learning: scikit-learn (KNN for recommendations)
+3. Web Framework: Streamlit
+4. Data Handling: NumPy, PIL
+5. Version Control: Git LFS (for large files like images and embeddings)
 
 # Usage
-Upload an image in app.py to extract its feature vector.
-Use main.py to upload an image and get visually similar product recommendations.
+1. Upload an image in app.py to extract its feature vector.
+2. Use main.py to upload an image and get visually similar product recommendations.
 
 # Notes
-Large files like embeddings.pkl and images use Git LFS to avoid exceeding GitHub size limits.
-The system uses Euclidean distance to find the most similar products.
+1. Large files like embeddings.pkl and images use Git LFS to avoid exceeding GitHub size limits.
+2. The system uses Euclidean distance to find the most similar products.
