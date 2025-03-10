@@ -1,6 +1,8 @@
 An AI-driven fashion product recommendation system that uses ResNet50 for feature extraction and K-Nearest Neighbors (KD-Tree) for image similarity search. This web app allows users to upload an image and get visually similar product recommendations in real-time.
 
 📂 Dataset:  (https://www.kaggle.com/datasets/paramaggarwal/fashion-product-images-dataset)
+
+
 📂 Live Project Demonstration Link:  (https://drive.google.com/file/d/1EjmbTzuJWMTGuIH1NUD-kz_4ataFHHfA/view?usp=drivesdk)
 
 # 🚀 Features
