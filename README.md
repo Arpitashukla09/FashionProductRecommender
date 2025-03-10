@@ -37,12 +37,6 @@ Web Framework: Streamlit
  ┣ 📜 feature_extraction.py # Script to extract features (if needed)
  ┣ 📜 README.md            # Project documentation
 
- 
-# 📌 Future Enhancements
-🔹 Integrate FastAPI for scalable API-based recommendations
-🔹 Optimize inference with ONNX Runtime
-🔹 Improve recommendations using CLIP embeddings
-🔹 Deploy on Render / Hugging Face Spaces
 
 # 📝 License
 This project is open-source and available under the MIT License.
