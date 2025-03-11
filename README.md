@@ -7,23 +7,35 @@ An AI-driven fashion product recommendation system that uses ResNet50 for featur
 
 # 🚀 Features
 ✅ Deep Learning for Feature Extraction using ResNet50
+
 ✅ Content-Based Image Retrieval with KNN (KD-Tree)
+
 ✅ Efficient Feature Processing with GlobalMaxPooling2D & preprocess_input
+
 ✅ Real-time Image Upload & Recommendation UI with Streamlit
+
 ✅ Optimized for Performance using memory-mapped data structures
+
 ✅ Supports Various Image Formats including JPG, PNG
 
 # 📌 Tech Stack
 Programming Language: Python
+
 Machine Learning & Deep Learning: TensorFlow, Keras, ResNet50, MobileNetV2
+
 Data Processing & Storage: NumPy, Pickle, PIL (Pillow), Base64
+
 Image Search Algorithm: Scikit-learn (KNN with KD-Tree)
+
 Web Framework: Streamlit
 
 # 📸 How It Works?
 1️⃣ Upload an image using the Streamlit UI
+
 2️⃣ The system extracts deep features using ResNet50
+
 3️⃣ A KNN model (KD-Tree) finds the most similar products
+
 4️⃣ Top-5 recommended products are displayed
 
 # 📜 File Structure
